@@ -68,7 +68,7 @@ Exploring self-hosted LLMs, RAG pipelines, and on-device AI as production infras
 ### Find Me
 
 [![Website](https://img.shields.io/badge/amit.cloud-0d1117?style=flat-square&logo=safari&logoColor=528bff&labelColor=0d1117)](https://amit.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-sharma728)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitsharma728)
 [![RSS](https://img.shields.io/badge/Writing-FF6719?style=flat-square&logo=rss&logoColor=white)](https://amit.cloud/insights)
 
 ---
