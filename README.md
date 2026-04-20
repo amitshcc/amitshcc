@@ -1,6 +1,7 @@
 <div align="center">
-  <a href="https://amit.cloud" target="_blank" rel="noopener noreferrer">
+  <a href="https://amit.cloud">
   <img src="https://raw.githubusercontent.com/amitshcc/amitshcc/master/header.svg" width="800" height="180" alt="Amit Sharma — Cloud & Platform Engineering Leader">
+  </a>
 </div>
 
 <br>
